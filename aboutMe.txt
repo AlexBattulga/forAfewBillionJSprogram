@@ -1,0 +1,4 @@
+Name: Alex Battulga		
+Project goal: Master Git and Github
+Favorite TV Show: Property Brothers
+Hobby: Programming
